@@ -8,7 +8,11 @@
 </div>
 
 <p>
-I'm a recent Computer Science & Engineering graduate at Varendra University with a focus on software engineering. As a junior-level professional, I bring enthusiasm and a strong foundation in programming to the table. Proficient in full-stack development, and competitive programming, and adept in key areas including Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Wordpress.
+👋 Hi there!
+💻 A versatile developer with expertise in Python, JavaScript, PHP, Laravel, Next.js, and WordPress.
+🎓 Currently diving deep into the world of Computer Science as a BSc student at Varendra University (VU), with a focus on Database Management, OOP, Data Science, and Algorithms.
+🔍 Passionate about solving complex problems and building scalable solutions, I’m always exploring new technologies and best practices to stay ahead in the tech world.
+🌱 If you're looking for someone with a solid foundation in both front-end and back-end development, coupled with a keen interest in data-driven insights, let's collaborate and innovate!
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Analytics</b>
