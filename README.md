@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=F7A033&center=true&random=false&width=435&lines=Software+Engineer;Python+Developer;Javascript+Developer;PHP+Developer;AI+Enthusiast;WordPress+Expert;Tech+Explorer;Continuous+Learner;Traveler"></img>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=F7A033&center=true&random=false&width=435&lines=Software+Engineer;Python+Developer;Javascript+Developer;PHP+Developer;AI+Enthusiast;WordPress+Expert;Tech+Explorer;Continuous+Learner;Traveler"></img>
+
 </p>
 </div>
 
