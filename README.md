@@ -15,15 +15,9 @@
 🌱 If you're looking for someone with a solid foundation in both front-end and back-end development, coupled with a keen interest in data-driven insights, let's collaborate and innovate!
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Analytics</b>
 
-<p align="center">
-<a href="https://github.com/khalid-mahmud-kabbo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alisadaintanvir&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alisadaintanvir&layout=compact&langs_count=8&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
   
