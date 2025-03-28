@@ -24,7 +24,6 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div>
   
@@ -121,7 +120,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/khalidmahmudk
  <img border="0" alt="Khalid's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://www.instagram.com/sadain007/">
+ <a href="https://www.instagram.com/khalid_mahmud_kabbo/">
  <img border="0" alt="Khalid" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
