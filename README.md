@@ -10,7 +10,7 @@
 
 <p>
 💻 A versatile developer with expertise in Python, JavaScript, PHP, Laravel, Next.js, and WordPress. <br><br>
-🎓 Currently diving deep into the world of Computer Science as a BSc student at Varendra University (VU), with a focus on Database Management, OOP, Data Science, and Algorithms.<br><br>
+🎓 Currently diving deep into the world of Computer Science as a BSc student at Varendra University (VU), with a focus on Database Management, OOP, Data Science, Artificial Intelligence and Algorithms.<br><br>
 🔍 Passionate about solving complex problems and building scalable solutions, I’m always exploring new technologies and best practices to stay ahead in the tech world.<br><br>
 🌱 If you're looking for someone with a solid foundation in both front-end and back-end development, coupled with a keen interest in data-driven insights, let's collaborate and innovate!
 </p>
