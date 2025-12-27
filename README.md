@@ -27,8 +27,6 @@
 
 - 📋 Languages:
   
-  ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Python](https://img.shields.io/badge/Python-12343?style=flat&logo=Python&logoColor=white&color=244C6F)&nbsp;
   ![nodejs](https://img.shields.io/badge/Node_JS-12343?style=flat&logo=Node.JS&logoColor=white&color=1A5D1A)
