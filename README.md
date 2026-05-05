@@ -85,8 +85,8 @@ I don’t just write code — I design **systems that solve real business proble
 
 ---
 
-### 📋 Task Management System
-- Real-time task updates  
+### 📋 Management System
+- Real-time updates  
 - Role-based access control  
 - REST API with modular backend structure  
 
