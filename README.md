@@ -47,7 +47,7 @@ I don’t just write code — I design **systems that solve real business proble
 
 ### 🗄️ Databases & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 - MongoDB schema design & optimization  
