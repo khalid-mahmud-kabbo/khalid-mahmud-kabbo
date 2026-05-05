@@ -105,7 +105,7 @@ I don’t just write code — I design **systems that solve real business proble
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/khalid-mahmud-925a38367/" target="_blank">
+  <a href="https://www.linkedin.com/in/khalid-mahmud013/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   <a href="mailto:dev.khalidmahmud01@gmail.com">
