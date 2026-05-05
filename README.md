@@ -67,23 +67,6 @@ I don’t just write code — I design **systems that solve real business proble
 - Cloud deployment (Vercel, etc.)  
 - API testing & debugging  
 
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=khalid-mahmud-kabbo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-mahmud-kabbo&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=khalid-mahmud-kabbo&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 💼 Featured Projects
 
