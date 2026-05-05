@@ -20,17 +20,16 @@ I don’t just write code — I design **systems that solve real business proble
 
 ---
 
-## 🧠 Core Expertise
-
-### 🌐 Frontend Engineering
+### 🚀 Full Stack Engineering (Next.js + MERN)
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js" />
 </p>
 
-- High-performance Next.js applications  
-- Component-based architecture  
-- Responsive & modern UI/UX  
-- State management & optimization  
+- Full-stack applications using Next.js (Frontend + Backend)
+- Server-side rendering (SSR) & API routes
+- Scalable architecture for SaaS & dashboards
+- Authentication, middleware & backend logic inside Next.js
+- MERN stack integration for complex systems
 
 ---
 
