@@ -1,129 +1,139 @@
-<div><h1 align="center">
-   Hi <𝚍𝚎𝚟𝚜/>, I'm Khalid Mahmud Kabbo
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<h1 align="center">Hi 👋, I'm Khalid Mahmud</h1>
+<h3 align="center">Full Stack Software Engineer | MERN • Next.js • Scalable Web Architect</h3>
+
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=20&pause=1000&color=F7A033&center=true&random=false&width=435&lines=Software+Engineer;Python+Developer;Javascript+Developer;PHP+Developer;AI+Enthusiast;WordPress+Expert;Tech+Explorer;Continuous+Learner;Traveler"></img>
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+Performance+Engineer;I+Build+Scalable+Digital+Products" />
 </p>
-</div>
 
+---
+
+## 🚀 Professional Summary
+
+I am a **Full Stack Software Engineer** focused on building **high-performance, scalable, and production-ready web applications**.
+
+I don’t just write code — I design **systems that solve real business problems**, improve user experience, and scale with growth.
+
+- ⚡ 3+ years of hands-on development experience  
+- 🧠 Strong focus on architecture, performance & clean code  
+- 🚀 Specialized in SaaS platforms, dashboards & APIs  
+- 🎯 Passionate about building real-world impactful products  
+
+---
+
+## 🧠 Core Expertise
+
+### 🌐 Frontend Engineering
 <p>
-💻 A versatile developer with expertise in Python, JavaScript, PHP, Laravel, Next.js, and WordPress. <br><br>
-🎓 Currently diving deep into the world of Computer Science as a BSc student at Varendra University (VU), with a focus on Database Management, OOP, Data Science, Artificial Intelligence and Algorithms.<br><br>
-🔍 Passionate about solving complex problems and building scalable solutions, I’m always exploring new technologies and best practices to stay ahead in the tech world.<br><br>
-🌱 If you're looking for someone with a solid foundation in both front-end and back-end development, coupled with a keen interest in data-driven insights, let's collaborate and innovate!
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
+- High-performance Next.js applications  
+- Component-based architecture  
+- Responsive & modern UI/UX  
+- State management & optimization  
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### ⚙️ Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
 
-<div>
-  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+- RESTful API development  
+- Authentication & authorization systems  
+- Scalable backend architecture  
+- Secure server-side logic  
+
+---
+
+### 🗄️ Databases & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB schema design & optimization  
+- MySQL relational modeling  
+- Efficient data structures & queries  
+
+---
+
+### 🚀 Dev Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+</p>
+
+- CI/CD workflows  
+- Dockerized applications  
+- Cloud deployment (Vercel, etc.)  
+- API testing & debugging  
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
-
-- 📋 Languages:
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-12343?style=flat&logo=Python&logoColor=white&color=244C6F)&nbsp;
-  ![nodejs](https://img.shields.io/badge/Node_JS-12343?style=flat&logo=Node.JS&logoColor=white&color=1A5D1A)
-  ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-  
-- 🎨 Frameworks & Libraries:
-  
-  ![React](https://img.shields.io/badge/React-12343?style=flat&logo=React&logoColor=white&color=0D6D8C)
-  ![Express](https://img.shields.io/badge/Express-23f12?style=flat&logo=Express)&nbsp;
-  ![Jquery](https://img.shields.io/badge/Jquery-12343?style=flat&logo=jquery&color=0769AD)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-12343?style=flat&logo=Bootstrap&logoColor=white&color=6E2CF2)&nbsp;
-  ![Django](https://img.shields.io/badge/Django-23f12?style=flat&logo=django&color=20AA76)&nbsp;
-  ![Flask](https://img.shields.io/badge/Flask-23f12?style=flat&logo=flask&color=3BA9BF)&nbsp;
-  ![Selenium](https://img.shields.io/badge/Selenium-12343?style=flat&logo=Selenium&logoColor=white&color=4EB436)&nbsp;
-  ![Numpy](https://img.shields.io/badge/Numpy-12343?style=flat&logo=Numpy&color=013243)&nbsp;
-  ![Pandas](https://img.shields.io/badge/Pandas-12343?style=flat&logo=Pandas&color=130654)&nbsp;
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-12343?style=flat&logo=MatPlotLib&color=blue)&nbsp;
-  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-12343?style=flat&logo=SQLAlchemy&color=778877)&nbsp;
-
-
-- 💾 Databases:
-
-  ![MongoDB](https://img.shields.io/badge/MongoDB-23f12?style=flat&logo=MongoDB&color=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-12343?style=flat&logo=MySQL&logoColor=white&color=3A6790)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-23f12?style=flat&logo=PostgreSQL&color=131E34)
-
-
-- 🎛️ Application and Tools:
-
-  ![Wordpress](https://img.shields.io/badge/Wordpress-12343?style=flat&logo=Wordpress&logoColor=white&color=3D3B40)
-  ![Git](https://img.shields.io/badge/Git-1342?style=flat&logo=git&color=131E34)
-  ![GitHub](https://img.shields.io/badge/Github-1342?style=flat&logo=Github&color=black)
-  ![postman](https://img.shields.io/badge/Postman-1342?style=flat&logo=Postman&color=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloundflare-12343?style=flat&logo=Cloudflare&logoColor=white&color=orange)
-  ![Heroku](https://img.shields.io/badge/Heroku-12343?style=flat&logo=Heroku)
-  ![Xmapp](https://img.shields.io/badge/XAMPP-1342?style=flat&logo=XAMPP&color=grey)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1342?style=flat&logo=Visual%20Studio%20Code&color=blue)
-  ![PyCharm](https://img.shields.io/badge/Pycharm-1342?style=flat&logo=Pycharm&color=9BCF53)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-12343?style=flat&logo=Adobe%20Photoshop&color=1D24CA)
-  ![Canva](https://img.shields.io/badge/Canva-1342?style=flat&logo=Canva&color=AC87C5)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-12343?style=flat&logo=Microsoft&color=464FEB)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1342?style=flat&logo=Microsoft%20Excel&color=0C359E)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-</div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b></p>
- 
-<br>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any inquiries regarding programming and web development, feel free to <a href="mailto:dev.khalidmahmud01@gmail.com">contact me </a> via email.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/khalidmahmudkabbo">Fiverr</a> or <a href="https://www.linkedin.com/in/khalidmahmudkabbo/">LinkedIn</a> to deploy your project on the web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Anything-12343?style=flat&logo=Anything&logoColor=white&label=Ask%20me&color=FFA41B">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
-
-<p align="center"><!-----Social Accounts------>
-
- <a href="https://www.linkedin.com/in/khalidmahmudkabbo/">
- 
- <img border="0" alt="Khalid's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://www.instagram.com/khalid_mahmud_kabbo/">
- <img border="0" alt="Khalid" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a>
-
- <a href="https://t.me/khalidmahmudkabbo">
- <img border="0" alt="Khalid" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.gg">
- <img border="0" alt="Khalid (He/Him)" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:dev.khalidmahmud01@gmail.com">
- <img border="0" alt="Khalid's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🚀 SaaS Dashboard Platform
+- Multi-role authentication system (Admin/User)
+- Real-time analytics dashboard
+- Scalable Next.js + Node.js architecture
+- Optimized API performance & caching strategy
+
+---
+
+### 🛒 E-Commerce System
+- Full product & order management system  
+- Secure authentication & payment flow  
+- Responsive UI with optimized UX  
+
+---
+
+### 📋 Task Management System
+- Real-time task updates  
+- Role-based access control  
+- REST API with modular backend structure  
+
+---
+
+## 🧩 Development Philosophy
+
+> “Clean architecture beats complex code. Scalability beats shortcuts.”
+
+- I prioritize **performance over shortcuts**  
+- I write **maintainable and scalable code**  
+- I think in terms of **systems, not just features**  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khalid-mahmud-925a38367/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="mailto:dev.khalidmahmud01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Closing Note
+
+If you're looking for a developer who can take ownership, build scalable systems, and deliver production-grade applications — you're in the right place.
+
+🚀 Let’s build something impactful together.
