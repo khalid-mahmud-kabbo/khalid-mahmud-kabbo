@@ -22,7 +22,7 @@ I don’t just write code — I design **systems that solve real business proble
 
 ### 🚀 Full Stack Engineering (Next.js + MERN)
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express" />
 </p>
 
 - Full-stack applications using Next.js (Frontend + Backend)
