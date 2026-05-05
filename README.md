@@ -35,7 +35,7 @@ I don’t just write code — I design **systems that solve real business proble
 
 ### ⚙️ Backend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python,django" />
 </p>
 
 - RESTful API development  
